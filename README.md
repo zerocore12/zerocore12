@@ -45,7 +45,7 @@ I'm developing my skills in **web development** and **AI/ML**, learning through 
 
 ## 💬 Ask Me About
 
-Building interfaces with React and experimenting with deep learning.
+ I’d love to chat about tech—especially React, web development, and AI/ML. Feel free to reach out to exchange ideas, talk about projects, or learn something new together!
 
 ## 🛠️ Languages and Tools
 
