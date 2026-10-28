@@ -12,17 +12,7 @@
   Learning to build for the web and exploring artificial intelligence and machine learning.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/zerocore-narayan2820">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/33146514">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="mailto:nrxbyte@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<h3 align="center">🎓 B.Tech CSE @ IIIT Bhagalpur</h3>
 
 ---
 
@@ -55,7 +45,7 @@ I'm developing my skills in **web development** and **AI/ML**, learning through 
 
 ## 💬 Ask Me About
 
-Building interfaces with React and experimenting with deep learning
+Building interfaces with React and experimenting with deep learning.
 
 ## 🛠️ Languages and Tools
 
@@ -78,7 +68,7 @@ Building interfaces with React and experimenting with deep learning
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 🌍 Find Me Online
+## 👨‍💻 Coding Profiles
 
 <p>
   <a href="https://www.codechef.com/users/zerocore6">
@@ -86,6 +76,20 @@ Building interfaces with React and experimenting with deep learning
   </a>
   <a href="https://codeforces.com/profile/zerocore">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/zerocore-narayan2820">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://stackoverflow.com/users/33146514">
+    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow profile" />
+  </a>
+  <a href="mailto:nrxbyte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nrxbyte%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email: nrxbyte@gmail.com" />
   </a>
 </p>
 
